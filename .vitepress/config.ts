@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress';
 export default defineConfig({
   title: 'ОК "Лесная застава"',
   description: 'Оздоровительный комплекс "Лесная застава"',
+  outDir: './public',
   themeConfig: {
     logo: '/.images/tempLogo.png',
     siteTitle: 'ОК "Лесная застава"',
