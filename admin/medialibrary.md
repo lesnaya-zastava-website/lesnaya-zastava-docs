@@ -20,7 +20,7 @@
 
 Можно нажать на кнопку `<- Back`, тогда откроется предыдущая папка.
 
-![exampleAddingContentsMedia](/.images/admin/exampleAddingContentsMedia.png)
+![exampleAddingContentsMedia](/admin/exampleAddingContentsMedia.png)
 
 :::
 
@@ -32,19 +32,19 @@
 
 1. Перейдите в `Медиабиблиотеку`;
 
-    ![exampleAddingContentsMedia](/.images/admin/exampleAddingEmployee29.png)
+    ![exampleAddingContentsMedia](/admin/exampleAddingEmployee29.png)
 
 2. Перейдите в папку `Наша команда`;
 
-    ![exampleAddingContentsMedia](/.images/admin/exampleAddingContentsMedia13.png)
+    ![exampleAddingContentsMedia](/admin/exampleAddingContentsMedia13.png)
 
 3. Нажмите на кнопку `Добавить папку`. В открывшемся меню напишите имя папки в поле `Name`, а в поле `Location` выберите имя папки, внутрь которой будет создана папка. По умолчанию путь создания будет являться текущая открытая папка. Самой верхней папкой считается `Media Library`, она содержит в себе все папки, которые вы видите при первом открытии `Медиабиблиотеки`;
 
-    ![exampleAddingContentsMedia](/.images/admin/exampleAddingContentsMedia14.png)
+    ![exampleAddingContentsMedia](/admin/exampleAddingContentsMedia14.png)
 
 4. Нажмите на кнопку `Создать` и перейдите в корневую папку `Медиабиблиотеки`. В ней должна появиться новая папка.
 
-    ![exampleAddingContentsMedia](/.images/admin/exampleAddingContentsMedia15.png)
+    ![exampleAddingContentsMedia](/admin/exampleAddingContentsMedia15.png)
 
 :::
 
@@ -58,23 +58,23 @@
 
 1. Перейдите в `Медиабиблиотеку`;
 
-    ![exampleAddingContentsMedia](/.images/admin/exampleAddingEmployee29.png)
+    ![exampleAddingContentsMedia](/admin/exampleAddingEmployee29.png)
 
 2. Перейдите в папку `Наша команда`;
 
-    ![exampleAddingContentsMedia](/.images/admin/exampleAddingContentsMedia13.png)
+    ![exampleAddingContentsMedia](/admin/exampleAddingContentsMedia13.png)
 
 3. Нажмите на кнопку `Добавить ресурс`. В открывшемся окне перетащите нужное фото в центр квадрата или нажмите на кнопку `Обзор файлов` и выберите нужный файл фотографии. Если нужно прикрепить файл как ссылку, то перейдите во вкладку `С URL` и укажите адрес фотографии;
 
-    ![exampleAddingContentsMedia](/.images/admin/exampleAddingContentsMedia16.png)
+    ![exampleAddingContentsMedia](/admin/exampleAddingContentsMedia16.png)
 
 4. После добавления файла у вас откроется окно состояния загрузки. Вы можете добавить дополнительные фотографии в случае, если нужно добавить несколько новых сотрудников. После добавления нажмите на кнопку `Загрузить 1 ресурс в библиотеку`;
 
-    ![exampleAddingContentsMedia](/.images/admin/exampleAddingContentsMedia18.png)
+    ![exampleAddingContentsMedia](/admin/exampleAddingContentsMedia18.png)
 
 5. В папке `Наша команда` появился новый файл с фотографией.
 
-    ![exampleAddingContentsMedia](/.images/admin/exampleAddingContentsMedia19.png)
+    ![exampleAddingContentsMedia](/admin/exampleAddingContentsMedia19.png)
 
 :::
 
@@ -86,19 +86,19 @@
 
 1. Перейдите в `Медиабиблиотеку`;
 
-    ![exampleAddingContentsMedia](/.images/admin/exampleAddingContentsMedia15.png)
+    ![exampleAddingContentsMedia](/admin/exampleAddingContentsMedia15.png)
 
 2. Нажмите на кнопку `Редактировать папку` папки `Спортивные секции`;
 
-    ![exampleAddingContentsMedia](/.images/admin/exampleAddingContentsMedia20.png)
+    ![exampleAddingContentsMedia](/admin/exampleAddingContentsMedia20.png)
 
 3. В открывшемся окне измените поле `Name` и `Location`. Далее нажмите на кнопку `Save`;
 
-    ![exampleAddingContentsMedia](/.images/admin/exampleAddingContentsMedia21.png)
+    ![exampleAddingContentsMedia](/admin/exampleAddingContentsMedia21.png)
 
 4. Перейдите в папку `Актуальные предложения`, в ней должна появиться изменённая папка.
 
-    ![exampleAddingContentsMedia](/.images/admin/exampleAddingContentsMedia22.png)
+    ![exampleAddingContentsMedia](/admin/exampleAddingContentsMedia22.png)
 
 :::
 
@@ -106,27 +106,27 @@
 
 1. Перейдите в `Медиабиблиотеку`;
 
-    ![exampleAddingContentsMedia](/.images/admin/exampleAddingContentsMedia15.png)
+    ![exampleAddingContentsMedia](/admin/exampleAddingContentsMedia15.png)
   
 2. Перейдите в папку `Актуальные предложения`;
 
-    ![exampleAddingContentsMedia](/.images/admin/exampleAddingContentsMedia22.png)
+    ![exampleAddingContentsMedia](/admin/exampleAddingContentsMedia22.png)
 
 3. Наведите на кнопку с тремя точками в правой части папки и нажмите на них;
 
-    ![exampleAddingContentsMedia](/.images/admin/exampleAddingContentsMedia23.png)
+    ![exampleAddingContentsMedia](/admin/exampleAddingContentsMedia23.png)
 
 4. Нажмите на кнопку `Delete folder`;
 
-    ![exampleAddingContentsMedia](/.images/admin/exampleAddingContentsMedia24.png)
+    ![exampleAddingContentsMedia](/admin/exampleAddingContentsMedia24.png)
 
 5. Нажмите на кнопку `Подтвердить`;
 
-    ![exampleAddingContentsMedia](/.images/admin/exampleAddingContentsMedia25.png)
+    ![exampleAddingContentsMedia](/admin/exampleAddingContentsMedia25.png)
 
 6. В папке `Актуальные предложения` должна пропасть папка `Спортивные мероприятия`.
 
-    ![exampleAddingContentsMedia](/.images/admin/exampleAddingContentsMedia26.png)
+    ![exampleAddingContentsMedia](/admin/exampleAddingContentsMedia26.png)
 
 :::
 
@@ -134,26 +134,26 @@
 
 1. Перейдите в `Медиабиблиотеку`;
 
-    ![exampleAddingContentsMedia](/.images/admin/exampleAddingContentsMedia15.png)
+    ![exampleAddingContentsMedia](/admin/exampleAddingContentsMedia15.png)
   
 2. Перейдите в папку `Наша команда`;
 
-    ![exampleAddingContentsMedia](/.images/admin/exampleAddingContentsMedia19.png)
+    ![exampleAddingContentsMedia](/admin/exampleAddingContentsMedia19.png)
 
 3. Нажмите на кнопку `Редактировать`;
-    ![exampleAddingContentsMedia](/.images/admin/exampleAddingContentsMedia27.png)
+    ![exampleAddingContentsMedia](/admin/exampleAddingContentsMedia27.png)
 
 4. Нажмите на кнопку `Заменить ресурс` и в открывшемся файловом менеджере выберите нужное фото;
 
-    ![exampleAddingContentsMedia](/.images/admin/exampleAddingContentsMedia28.png)
+    ![exampleAddingContentsMedia](/admin/exampleAddingContentsMedia28.png)
 
 5. Нажмите на кнопку `Готово`;
 
-    ![exampleAddingContentsMedia](/.images/admin/exampleAddingContentsMedia29.png)
+    ![exampleAddingContentsMedia](/admin/exampleAddingContentsMedia29.png)
 
 6. Проверьте, что ресурс был изменён.
 
-    ![exampleAddingContentsMedia](/.images/admin/exampleAddingContentsMedia30.png)
+    ![exampleAddingContentsMedia](/admin/exampleAddingContentsMedia30.png)
 
 :::
 
@@ -161,27 +161,27 @@
 
 1. Перейдите в `Медиабиблиотеку`;
 
-    ![exampleAddingContentsMedia](/.images/admin/exampleAddingContentsMedia15.png)
+    ![exampleAddingContentsMedia](/admin/exampleAddingContentsMedia15.png)
   
 2. Перейдите в папку `Наша команда`;
 
-    ![exampleAddingContentsMedia](/.images/admin/exampleAddingContentsMedia30.png)
+    ![exampleAddingContentsMedia](/admin/exampleAddingContentsMedia30.png)
 
 3. Нажмите на кнопку `Редактировать`;
 
-    ![exampleAddingContentsMedia](/.images/admin/exampleAddingContentsMedia31.png)
+    ![exampleAddingContentsMedia](/admin/exampleAddingContentsMedia31.png)
 
 4. Нажмите на кнопку `Удалить`;
 
-    ![exampleAddingContentsMedia](/.images/admin/exampleAddingContentsMedia32.png)
+    ![exampleAddingContentsMedia](/admin/exampleAddingContentsMedia32.png)
 
 5. Нажмите на кнопку `Подтвердить`;
 
-    ![exampleAddingContentsMedia](/.images/admin/exampleAddingContentsMedia33.png)
+    ![exampleAddingContentsMedia](/admin/exampleAddingContentsMedia33.png)
 
 6. Проверьте, что ресурс был удалён.
 
-    ![exampleAddingContentsMedia](/.images/admin/exampleAddingContentsMedia34.png)
+    ![exampleAddingContentsMedia](/admin/exampleAddingContentsMedia34.png)
 
 :::
 

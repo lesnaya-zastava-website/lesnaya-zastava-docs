@@ -6,7 +6,7 @@ export default defineConfig({
   title: 'ОК "Лесная застава"',
   description: 'Оздоровительный комплекс "Лесная застава"',
   themeConfig: {
-    logo: '/.images/tempLogo.png',
+    logo: '/tempLogo.png',
     siteTitle: 'ОК "Лесная застава"',
     nav: [
       { text: 'Главная', link: '/' }, 

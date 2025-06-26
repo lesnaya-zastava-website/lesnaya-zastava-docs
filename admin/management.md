@@ -10,13 +10,13 @@
 
 Если на сайте `Лесной заставы` перейти в блок `О центре`, можно обнаружить карточки, ведущие на страницу с соответствующим контентом, а именно: `Документы`, `Наша команда`, `Инфраструктура` и т.д.
 
-![Example Adding Employee](/.images/admin/exampleAddingEmployee0.png)
+![Example Adding Employee](/admin/exampleAddingEmployee0.png)
 
 В `Редакторе контента` также существуют страницы с такими же именами, после имени `Типы Коллекций`, которые отвечают за содержимое страниц внутри карточек. Если произвести манипуляцию с содержимым таблицы, например страницы `Документы` в `Редакторе контента`, то это приведет к изменению контента страницы `Лесной заставы` в блоке `О центре`, в карточке `Документы`.
 
-![Example Adding Employee](/.images/admin/mainContentManager.png)
+![Example Adding Employee](/admin/mainContentManager.png)
 
-![Example Adding Employee](/.images/admin/exampleAddingEmployee1.png)
+![Example Adding Employee](/admin/exampleAddingEmployee1.png)
 
 Обратите внимание, что не все имена карточек внутри блоков находятся в `Редакторе контента`, это значит, что контент внутри этой карточки не подразумевает изменения в панели администратора.
 
@@ -39,47 +39,47 @@
 ::: details Пример добавления нового сотрудника
 1. Перейдите в `Редактор контента` и откройте страницу `Наша команда`;
 
-    ![Example Adding Employee](/.images/admin/exampleAddingEmployee5.png)
+    ![Example Adding Employee](/admin/exampleAddingEmployee5.png)
 
 2. Нажмите на кнопку `Создать новую запись`;
 
-    ![Example Adding Employee](/.images/admin/exampleAddingEmployee6.png)
+    ![Example Adding Employee](/admin/exampleAddingEmployee6.png)
 
 3. Нажмите на символ плюса внутри поля ввода `photo`;
 
-    ![Example Adding Employee](/.images/admin/exampleAddingEmployee7.png)
+    ![Example Adding Employee](/admin/exampleAddingEmployee7.png)
 
 4. В открывшемся окне `Добавить ресурсы` перейдите в папку `Наша команда`;
 
-    ![Example Adding Employee](/.images/admin/exampleAddingEmployee8.png)
+    ![Example Adding Employee](/admin/exampleAddingEmployee8.png)
 
 5. [Опционально] Если фотография сотрудника не загружена, нажмите на кнопку `Добавить ещё ресурсов`. Перенесите фотографию внутрь блока либо нажмите на кнопку `Обзор файлов` и выберите нужное вам фото.
 
-    ![Example Adding Employee](/.images/admin/exampleAddingEmployee9.png)
+    ![Example Adding Employee](/admin/exampleAddingEmployee9.png)
 
 6. Когда фотография загружена, найдите её внутри блока `Ресурсы`, используйте стрелки для навигации в нижней части блока. Нажмите на квадрат в левом верхнем углу фотографии, он должен подсветиться и внутри него появится символ галочки, далее нажмите на кнопку `Готово`.
 
-    ![Example Adding Employee](/.images/admin/exampleAddingEmployee10.png)
+    ![Example Adding Employee](/admin/exampleAddingEmployee10.png)
 
 7. После нажатия на кнопку вы вернетесь в ранее открывшееся окно `Create an entry`;
 
-    ![Example Adding Employee](/.images/admin/exampleAddingEmployee11.png)
+    ![Example Adding Employee](/admin/exampleAddingEmployee11.png)
 
 8. Введите ФИО сотрудника в поле `fullName`;
 
-    ![Example Adding Employee](/.images/admin/exampleAddingEmployee12.png)
+    ![Example Adding Employee](/admin/exampleAddingEmployee12.png)
 
 9. Введите должность сотрудника в поле `job`;
 
-    ![Example Adding Employee](/.images/admin/exampleAddingEmployee13.png)
+    ![Example Adding Employee](/admin/exampleAddingEmployee13.png)
 
 10. Введите почту сотрудника в поле `email`;
 
-    ![Example Adding Employee](/.images/admin/exampleAddingEmployee14.png)
+    ![Example Adding Employee](/admin/exampleAddingEmployee14.png)
 
 11. Нажмите на кнопку `Опубликовать`. В таблице должна появиться запись со статусом `Опубликован`.
 
-    ![Example Adding Employee](/.images/admin/exampleAddingEmployee15.png)
+    ![Example Adding Employee](/admin/exampleAddingEmployee15.png)
 
 :::
 
@@ -100,27 +100,27 @@
 
 1. Перейдите в `Редактор контента` и откройте страницу `Наша команда`;
 
-    ![Example Adding Employee](/.images/admin/exampleAddingEmployee5.png)
+    ![Example Adding Employee](/admin/exampleAddingEmployee5.png)
 
 2. Нажмите на кнопку с тремя точками возле нужной вам записи;
 
-    ![Example Adding Employee](/.images/admin/exampleAddingEmployee17.png)
+    ![Example Adding Employee](/admin/exampleAddingEmployee17.png)
 
 3. В открывшемся меню нажмите на кнопку `Duplicate`;
 
-    ![Example Adding Employee](/.images/admin/exampleAddingEmployee18.png)
+    ![Example Adding Employee](/admin/exampleAddingEmployee18.png)
 
 4. Перед вами откроется меню, как и при создании новой записи, только поля уже будут заполнены;
 
-    ![Example Adding Employee](/.images/admin/exampleAddingEmployee19.png)
+    ![Example Adding Employee](/admin/exampleAddingEmployee19.png)
 
 5. [Опционально] Нажмите на кнопку `<- Назад`, тогда созданная вами копия будет со статусом `Черновик`;
 
-    ![Example Adding Employee](/.images/admin/exampleAddingEmployee20.png)
+    ![Example Adding Employee](/admin/exampleAddingEmployee20.png)
 
 6. Нажмите на кнопку `Опубликовать`, тогда созданная вами копия будет со статусом `Опубликован`.
 
-    ![Example Adding Employee](/.images/admin/exampleAddingEmployee21.png)
+    ![Example Adding Employee](/admin/exampleAddingEmployee21.png)
 
 :::
 
@@ -128,44 +128,44 @@
 
 1. Перейдите в `Редактор контента` и откройте страницу `Наша команда`;
 
-    ![Example Adding Employee](/.images/admin/exampleAddingEmployee5.png)
+    ![Example Adding Employee](/admin/exampleAddingEmployee5.png)
 
 2. Нажмите на кнопку с тремя точками возле нужной вам записи. В открывшемся меню нажмите на кнопку `Edit`;
 
-    ![Example Adding Employee](/.images/admin/exampleAddingEmployee22.png)
+    ![Example Adding Employee](/admin/exampleAddingEmployee22.png)
 
 3. Перед вами откроется меню, как и при создании новой записи, только поля уже будут заполнены;
 
-    ![Example Adding Employee](/.images/admin/exampleAddingEmployee19.png)
+    ![Example Adding Employee](/admin/exampleAddingEmployee19.png)
 
 4. Внесите нужные изменения в поля ввода;
 
-    ![Example Adding Employee](/.images/admin/exampleAddingEmployee24.png)
+    ![Example Adding Employee](/admin/exampleAddingEmployee24.png)
 
 5. [Опционально] Нажмите на кнопку `Сохранить`, тогда запись изменится со статусом `Modified`;
 
-    ![Example Adding Employee](/.images/admin/exampleAddingEmployee25.png)
+    ![Example Adding Employee](/admin/exampleAddingEmployee25.png)
 
 6. Нажмите на кнопку `Опубликовать`, тогда созданная вами копия будет со статусом `Опубликован`.
 
-    ![Example Adding Employee](/.images/admin/exampleAddingEmployee26.png)
+    ![Example Adding Employee](/admin/exampleAddingEmployee26.png)
 :::
 
 ::: details Пример удаления записи сотрудника
 
 1. Перейдите в `Редактор контента` и откройте страницу `Наша команда`;
 
-    ![Example Adding Employee](/.images/admin/exampleAddingEmployee5.png)
+    ![Example Adding Employee](/admin/exampleAddingEmployee5.png)
 
 2. Нажмите на кнопку с тремя точками возле нужной вам записи. В открывшемся меню нажмите на кнопку `Delete entry`;
 
-    ![Example Adding Employee](/.images/admin/exampleAddingEmployee27.png)
+    ![Example Adding Employee](/admin/exampleAddingEmployee27.png)
 
 3. Нажмите на кнопку `Подтвердить`;
 
-    ![Example Adding Employee](/.images/admin/exampleAddingEmployee28.png)
+    ![Example Adding Employee](/admin/exampleAddingEmployee28.png)
 
 4. Проверьте, что записи больше нет.
 
-     ![Example Adding Employee](/.images/admin/exampleAddingEmployee5.png)
+     ![Example Adding Employee](/admin/exampleAddingEmployee5.png)
 :::
