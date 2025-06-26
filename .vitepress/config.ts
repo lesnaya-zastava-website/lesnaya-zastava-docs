@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/lesnaya-zastava-docs/',
   title: 'ОК "Лесная застава"',
   description: 'Оздоровительный комплекс "Лесная застава"',
   themeConfig: {
