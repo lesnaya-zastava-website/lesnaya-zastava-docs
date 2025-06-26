@@ -3,5 +3,5 @@
 Архитектурная методология во Fronted части решения используется **FSD**, архитектура в Backend части решения используется **Strapi**.
 
 ::: warning ⚠️ Требования
-Для понимания архитектуры проекта, требуется предварительно ознакомиться с [методологией FSD](https://feature-sliced.github.io/documentation/) и [архитектурой strapi](https://docs.strapi.io/cms/project-structure) в официальных документациях.
+Для понимания архитектуры проекта требуется предварительно ознакомиться с [методологией FSD](https://feature-sliced.github.io/documentation/) и [архитектурой strapi](https://docs.strapi.io/cms/project-structure) в официальных документациях.
 :::
