@@ -9,7 +9,7 @@ export default defineConfig({
     logo: '/.images/tempLogo.png',
     siteTitle: 'ОК "Лесная застава"',
     nav: [
-      { text: 'Главная', link: '/' },
+      { text: 'Главная', link: '/' }, 
       {
         text: 'Руководство',
         items: [
