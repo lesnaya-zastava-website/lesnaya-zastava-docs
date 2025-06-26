@@ -4,7 +4,6 @@ bun.lock
 
 # output
 out
-dist
 *.tgz
 
 # code coverage
