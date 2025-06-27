@@ -7,7 +7,7 @@ export default defineConfig({
   description: 'Оздоровительный комплекс "Лесная застава"',
   themeConfig: {
     logo: '/tempLogo.png',
-    siteTitle: 'ОК "Лесная застава"',
+    siteTitle: '',
     nav: [
       { text: 'Главная', link: '/' }, 
       {
@@ -42,7 +42,9 @@ export default defineConfig({
         text: 'Для программиста',
         items: [
           { text: 'Зависимости', link: '/expert/dependencies' },
-          { text: 'Архитектура', link: '/expert/architecture' }        ],
+          { text: 'Архитектура', link: '/expert/architecture' },
+           { text: 'Развертывание', link: '/expert/deploy' },
+                ],
         collapsed: true,
       },
     ],
